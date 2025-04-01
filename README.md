@@ -1,4 +1,4 @@
-# **Financial Text Sentiment Analysis**
+# **Text Sentiment Analysis**
 
 ## **Project Overview**
 This Python script performs **Sentiment Analysis** and **Readability Analysis** on financial texts. It calculates various linguistic metrics such as **polarity score, subjectivity score, fog index, average word length**, and more. Using requests to extract URLs, using BeautifulSoup to extract text and title of each article from every URL, and finally using nltk and re to clean up, and extract words and sentences from the text of each article to perform sentiment analysis and readability analysis on the given list of articles. Uploading all the relevant scores into the Output_Data_Structure.xlsx file.
